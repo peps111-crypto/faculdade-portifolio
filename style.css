@@ -1,0 +1,28 @@
+/* Custom Styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1,
+h2 {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+#about img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card-title {
+    font-weight: 600;
+}
+
+footer p {
+    margin: 0;
+}
